@@ -1,5 +1,7 @@
 # Desenvolvedor Python
 
+[Iniciar treinamento](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Treinamento)
+
 ## Sobre o projeto
 Um risco frequente no processo de engenharia de software é a necessidade de se contratar novos desenvolvedores no meio do projeto. Assim se faz necessário um programa de treinamento, visando evitar atrasos no planejamento.  Este programa é avaliado quanto a custo e tempo, além de serem abordados os padrões utilziados pela empresa/equipe.
 O projeto consiste em um treinamento básico na linguagem Python, para um desenvolvedor que entrará em um projeto em andamento e não domina a linguagem, mas tem experiência em outras linguagens.
