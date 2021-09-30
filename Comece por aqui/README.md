@@ -1,24 +1,32 @@
-# Desenvolvedor Python
+# Introdução
 
-[Iniciar treinamento](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Treinamento)
 
-## Sobre o projeto
-Um risco frequente no processo de engenharia de software é a necessidade de se contratar novos desenvolvedores no meio do projeto. Assim se faz necessário um programa de treinamento, visando evitar atrasos no planejamento.  Este programa é avaliado quanto a custo e tempo, além de serem abordados os padrões utilziados pela empresa/equipe.
-O projeto consiste em um treinamento básico na linguagem Python, para um desenvolvedor que entrará em um projeto em andamento e não domina a linguagem, mas tem experiência em outras linguagens.
 
-## Objetivo
-Logo o objetivo é apresentar o básico da linguagem desde o "Hello World!" até as estruturas masi necessárias, explorando a parte teórica e a prática.
+## História
+Antes de começar aprender algo, é sempre importante entender quem foi ser criador/idealizador assim com a sucessão de fatos que levaram a sua criação. No caso de uma linguagem, sempre é interessante enteder qual a proposta inicial da mesma, além de entender como algumas das suas características surgiram.
+No caso do python uma das curiosidades é o próprio nome da linguagem, que não surgiu exatamente da cobra. No link abaixo é possível ler sobre a história da linguagem.
+* [História do Python](http://mindbending.org/pt/a-historia-do-python)
 
-## Desenvolvido por
-Edon Brendon Souza dos Santos
+Ou você pode ouvir do próprio criador, Guido Van Rossum:
+* [A história do Python, pelo seu criador](https://www.youtube.com/watch?v=wjebq3d4IGk)
 
-João Eduardo Alencar Pinto
+## Por que estudar Python?
+Então algo que você deve estar se perguntando é o "Por que eu devo estudar python?", para mostrar um pouco da utilização e aplicações do python no mercado atual, assita esse vídeo:
+* [O que é e porque estudar Python?](https://www.youtube.com/watch?v=-LATVnPcvHI)
+* [10 motivos para aprender Python](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/)
 
-Yann Gabriel Loyola
+## Instalando Python e configurando a IDE
+Para instalar o Python e configurar todo o ambiente necessário para desenvolver seus scripts e realizar o treinamento, siga esse passo-a-passo para fazer a instalação do Python e do PyCharm (IDE mais utilizada para trabalhar com a linguagem). Claro que também é possível trabalhar utilizando VsCode ou até mesmo o Jupyter Notebook.
+* [Instalação do Python](https://www.devmedia.com.br/instalacao-do-python/40643)
 
-## Orientador
-Ricardo Argenton Ramos
+## Características Básicas
+Antes de irmos para o "Hello World!" e para a codificação, se faz importante entender algumas características da linguagem, já que por ser de alto nível, pode ser um pouco confusa no início, dependedo de qual linguagem você domina. Uma das principais características da linguagem Python é a ausência de ponto e vírgula(;) ao fim do comandos, mas existem outras características importantes a se entender sobre a linguagem, principalmente o fato dela ter tipagem dinâmica, diferente de linguagens como C ou Java.
+Para entender a questão sobre tipagem dinâmica e tipagem estática leia este artigo:
+* [Python uma linguagem de tipagem dinâmica e forte](http://blog.abraseucodigo.com.br/python-uma-linguagem-de-tipagem-dinamica-e-forte.html)
 
-## Disciplina
-Engenharia de Software 3
+E para entender algumas carecterísticas iniciais, leia este artigo:
+* [Tour pela linguagem Python](https://www.devmedia.com.br/python-tutorial-tour-pela-linguagem/40646)
+
+### Pronto, agora já é possível iniciar o seu treinamento na linguagem Python.
+###  [Iniciar treinamento](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Treinamento)
 
