@@ -3,7 +3,7 @@
 
 
 ## História
-Antes de começar aprender algo, é sempre importante entender quem foi ser criador/idealizador assim com a sucessão de fatos que levaram a sua criação. No caso de uma linguagem, sempre é interessante enteder qual a proposta inicial da mesma, além de entender como algumas das suas características surgiram.
+Antes de começar aprender algo, é sempre importante entender quem foi seu criador/idealizador assim com a sucessão de fatos que levaram a sua criação. No caso de uma linguagem, sempre é interessante enteder qual a proposta inicial da mesma, além de entender como algumas das suas características surgiram.
 No caso do python uma das curiosidades é o próprio nome da linguagem, que não surgiu exatamente da cobra. No link abaixo é possível ler sobre a história da linguagem.
 * [História do Python](http://mindbending.org/pt/a-historia-do-python)
 
@@ -26,6 +26,11 @@ Para entender a questão sobre tipagem dinâmica e tipagem estática leia este a
 
 E para entender algumas carecterísticas iniciais, leia este artigo:
 * [Tour pela linguagem Python](https://www.devmedia.com.br/python-tutorial-tour-pela-linguagem/40646)
+
+## Hello World
+Para aprender a linguagem é preciso iniciar pelo Hello World. No Python é bem simples, já que não é preciso importar nenhuma biblioteca para trabalhar com E/S e nem é preciso declarar uma função main para executar o código. Isso mesmo, só precisamos printar com o comando print() e a mensagem entre aspas "Hello World!".
+Caso tenha dúvidas basta consutar o arquivo:
+* [Hello World](https://github.com/ebrendon/Desenvolvedor_Python/blob/master/Comece%20por%20aqui/Hello_world.py)
 
 ### Pronto, agora já é possível iniciar o seu treinamento na linguagem Python.
 ###  [Iniciar treinamento](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Treinamento)
