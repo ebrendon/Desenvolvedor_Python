@@ -18,7 +18,7 @@ Vamos introduzir alguns conceitos básicos da linguagem, que julgamos ser necess
 * [Curso para iniciantes em Python na scrimba (EN)](https://scrimba.com/learn/python)
 * [Turorial de Python (PT)](http://turing.com.br/pydoc/2.7/tutorial/)
 * [Tutorial de Python (EN)](https://docs.python.org/3/tutorial/index.html)
-* [Aprendendo Python](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/intro/learning.html)
+* [Aprendendo Python (EN)](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/intro/learning.html)
 * [Curso de Python - Curso em Vídeo com Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 ### Podcasts
 * [The Real Python](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWFscHl0aG9uLmNvbS9wb2RjYXN0cy9ycHAvZmVlZA?sa=X&ved=0CAMQ4aUDahcKEwio946B_aXzAhUAAAAAHQAAAAAQAg)
