@@ -1,6 +1,6 @@
 # Desenvolvedor Python
 
-[Iniciar treinamento](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Treinamento)
+[Comece por aqui](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Comece%20por%20aqui)
 
 ## Sobre o projeto
 Um risco frequente no processo de engenharia de software é a necessidade de se contratar novos desenvolvedores no meio do projeto. Assim se faz necessário um programa de treinamento, visando evitar atrasos no planejamento.  Este programa é avaliado quanto a custo e tempo, além de serem abordados os padrões utilziados pela empresa/equipe.
