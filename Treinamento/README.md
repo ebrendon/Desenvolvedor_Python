@@ -75,6 +75,13 @@ dicionario = {
 Veja algumas das operações com dicionário:
 * [Dicionários](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Treinamento/Dicionários)
 
+## Projetinhos básicos
+Desenvolvemos alguns projetos básicos, mas um pouco mais elaborados para que seja possível entender alguns conceitos inicias para se utilizar em projetos, assim é interessante que sejam implmentados e verifique-se possibilidades de melhorá-los para avançar com o conhecimento da linguagem.
+### Jogo da Velha
+* [Números por extenso](https://github.com/ebrendon/Desenvolvedor_Python/blob/master/Argenton_Projeto_Final.ipynb)
+* [Jogo da velha](https://github.com/ebrendon/Desenvolvedor_Python/blob/master/Treinamento/Projetos/jogo_da_velha.py)
+* [Compressor de Imagens](https://github.com/ebrendon/Desenvolvedor_Python/blob/master/Treinamento/Projetos/coprimir_imagens.py)
+
 ## Para se aprofundar
 Separamos alguns conteúdos para avançar no estudo da linguagem, seja realmente aprendendo algumas estruturas ou paradigmas, como orientação a objeto, projetos para iniciantes, mas também conteúdos mais dinâmicos e mais lúdicos como alguns podcasts que falam um pouco do uso de Python e também alguns sites para aprender python jogando ou resolvendo pequenos problemas.
 
