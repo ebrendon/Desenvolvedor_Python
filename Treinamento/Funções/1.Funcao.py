@@ -9,5 +9,5 @@ def hello(meu_nome):                    #Função exemplo
     print("Olá,", meu_nome)
 
 
-hello('Péricles')                       #Chamada da função passando "Péricles" como parâmetro
+hello('Péricles')                       #Chamada da função passando 'Péricles' como parâmetro
         
