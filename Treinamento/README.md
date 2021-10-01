@@ -1,10 +1,26 @@
-# Passo a passo
-
+<h1 align="center">
+Passo a passo
+</h1>
 Vamos introduzir alguns conceitos básicos da linguagem, que julgamos ser necessários para avançar na aprendizagem da linguagem.
+
 ## Passos Básicos
+
 ### Condicionais - If/Elif/Else
 Para começar, é importante aprender como criar comandos de controle de fluxo ou comandos condicionais. No Python se trabalha com if e else para duas condições, e para mais de duas se usa elif nas intermediárias.
-Veja este código para ficar masi claro:
+
+```python
+if condicao1
+  comandos
+elif condicao2
+  comandos
+  [...]
+elif condicaoN
+  comandos
+else
+  comandos
+```
+
+Veja este código para ficar mais claro:
 * [If/Elif/Else](https://github.com/ebrendon/Desenvolvedor_Python/blob/master/Treinamento/Basico/if_else.py)
 
 ### Loops
@@ -16,21 +32,47 @@ Para o laço While siga o que se diz no código seguinte:
 * [While](https://github.com/ebrendon/Desenvolvedor_Python/blob/master/Treinamento/Basico/while.py)
 
 ### Funções
-A palavra reservada def inicia a definição de uma função. Ela deve ser seguida do nome da função e da lista de parâmetros formais entre parênteses. Os comandos que formam o corpo da função começam na linha seguinte e devem ser indentados.
+A palavra reservada **def** inicia a definição de uma função. Ela deve ser seguida do nome da função e da lista de parâmetros formais entre parênteses. Os comandos que formam o corpo da função começam na linha seguinte e devem ser indentados.
+
+```python
+def nome_da_funcao(parâmetros):
+  comandos
+```
+
 Verifique os códigos para entender a declaração e retorno das funções:
 * [Funções](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Treinamento/Funções)
 
 ### Listas
 Entrando em listas, é importante dizer que listas, tuplas e dicionários, são variáveis compostas que se diferenciam pela suas estruturas e por algumas características básicas.A mais versátil é list (lista), que pode ser escrita como uma lista de valores (itens) separados por vírgula, entre colchetes. Os valores contidos na lista não precisam ser todos do mesmo tipo.
+
+```python
+lista = [elemento1, elemento2, elemento3...]
+```
+
 Veja algumas das operações com lista:
 * [Listas](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Treinamento/Listas)
 
 ### Tuplas
 Tupla é uma estrutura de dados semelhante a lista. Porém, ela tem a característica de ser imutável, ou seja, após uma tupla ser criada, ela não pode ser alterada em tempo de execução. Assim, ss tuplas devem ser usadas em situações em que não haverá necessidade de adicionar, remover ou alterar elementos de um grupo de itens.
+
+```python
+tupla = (elemento1, elemento2, elemento3...)
+```
+Veja alguns códigos com tuplas:
 * [Tuplas](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Treinamento/Tuplas)
 
 ### Dicionários
-Os dicionários representam coleções de dados que contém na sua estrutura um conjunto de pares (chave/valor), nos quais cada chave individual tem um valor associado. Esse objeto representa a ideia de um mapa, que entendemos como uma coleção associativa desordenada. A associação nos dicionários é feita por meio de uma chave que faz referência a um valor
+Os dicionários representam coleções de dados que contém na sua estrutura um conjunto de pares (chave/valor), nos quais cada chave individual tem um valor associado. Esse objeto representa a ideia de um mapa, que entendemos como uma coleção associativa desordenada. A associação nos dicionários é feita por meio de uma chave que faz referência a um valor.
+
+```python
+dicionario = {
+    chave1 : valor1,
+    chave2 : valor2,
+    chave3 : valor3,
+    ...
+}
+```
+Veja algumas das operações com dicionário:
 * [Dicionários](https://github.com/ebrendon/Desenvolvedor_Python/tree/master/Treinamento/Dicionários)
 
 ## Para se aprofundar
