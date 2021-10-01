@@ -77,9 +77,11 @@ Veja algumas das operações com dicionário:
 
 ## Projetinhos básicos
 Desenvolvemos alguns projetos básicos, mas um pouco mais elaborados para que seja possível entender alguns conceitos inicias para se utilizar em projetos, assim é interessante que sejam implmentados e verifique-se possibilidades de melhorá-los para avançar com o conhecimento da linguagem.
-### Jogo da Velha
+### Números por extenso
 * [Números por extenso](https://github.com/ebrendon/Desenvolvedor_Python/blob/master/Argenton_Projeto_Final.ipynb)
+### Jogo da Velha
 * [Jogo da velha](https://github.com/ebrendon/Desenvolvedor_Python/blob/master/Treinamento/Projetos/jogo_da_velha.py)
+### Compressor de imagens
 * [Compressor de Imagens](https://github.com/ebrendon/Desenvolvedor_Python/blob/master/Treinamento/Projetos/coprimir_imagens.py)
 
 ## Para se aprofundar
