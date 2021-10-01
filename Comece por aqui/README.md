@@ -17,7 +17,7 @@ Então algo que você deve estar se perguntando é o "Por que eu devo estudar py
 * [10 motivos para aprender Python](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/)
 
 ## Instalando Python e configurando a IDE
-Para instalar o Python e configurar todo o ambiente necessário para desenvolver seus scripts e realizar o treinamento, siga esse passo-a-passo para fazer a instalação do Python e do PyCharm (IDE mais utilizada para trabalhar com a linguagem). Claro que também é possível trabalhar utilizando VsCode ou até mesmo o Jupyter Notebook.
+Para instalar o Python e configurar todo o ambiente necessário para desenvolver seus scripts e realizar o treinamento, siga esse passo-a-passo para fazer a instalação do Python e do PyCharm (IDE mais utilizada para trabalhar com a linguagem). Claro que também é possível trabalhar utilizando VSCode ou até mesmo o Jupyter Notebook. Para outras versões do Python, o tutorial segue o mesmo padrão.
 * [Instalação do Python](https://www.devmedia.com.br/instalacao-do-python/40643)
 
 ## Características Básicas
